@@ -15,4 +15,6 @@ public class Dog extends Animal implements Bark{
     public void bark() {
         System.out.println(getName()+" is barking a lot");
     }
+
+
 }
